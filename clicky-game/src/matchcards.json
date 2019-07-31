@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/david-de-gea.png",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/Evra.png",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/Vidic.png",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/Rio-Ferdinand.png",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/rafael.png",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/nani.png",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/Paul-Scholes.png",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/carrick.png",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/amderson.png",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/cristiano_ronaldo.png",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/Rooney.png",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/Sir.png",
+    "clicked": false
+}
+]
