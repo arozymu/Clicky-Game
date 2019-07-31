@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "https://arozymu.github.io/repository-Clicky-Game",
+    "homepage": "https://arozymu.github.io/Clicky-Game",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -17,7 +17,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
- 
   "eslintConfig": {
     "extends": "react-app"
   },
